@@ -1,0 +1,32 @@
+body {
+	background-image: url(https://lolstatic-a.akamaihd.net/game-info/1.1.9/images/champion/backdrop/bg-draven.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.nom {
+	color: white;
+
+}
+
+.grid {
+	border: white 2px solid;
+	width: 350px;
+	height: 180px;
+	background-color: white;
+}
+
+h3 {
+	color: white;
+}
+
+h4 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+#story {
+	text-decoration: none; 
+}
