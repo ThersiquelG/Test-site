@@ -2,6 +2,24 @@ body {
 	background-image: url(https://lolstatic-a.akamaihd.net/game-info/1.1.9/images/champion/backdrop/bg-draven.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
+	margin : 0;
+}
+.header{
+	width : 40%;
+	margin : auto;
+	text-align: center;
+	background-color:rgba(0, 0, 0, 0.5);
+	border: 2px solid rgb(0, 0, 0);
+}
+.DravIcon{
+	display: inline-block;
+	vertical-align: middle;
+	padding-right: 2em;
+}
+.titre{
+	display: inline-block;
+	vertical-align: middle;
+	font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .nom {
 	color: white;
